@@ -82,4 +82,10 @@ img {
 		width: 100vw;
 		background-image: linear-gradient(to top, #1E247A, #090909 90%);
 	}
+	.pt-1 {
+		color: #fff;
+	}
+	.pt-2 {
+		color: #fff;
+	}
 }
