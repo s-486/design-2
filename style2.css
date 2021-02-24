@@ -8,8 +8,6 @@ body {
 }
 
 .box-1 {
-    min-width: 50%;
-    background-color: red;
     display: flex;
     align-items: center;
     text-align: center;
@@ -68,5 +66,4 @@ span {
 .table {
     background-image: linear-gradient(to right, #090909, #a71b1b 90%);
     color: #fff;
-    width: 50vw;
 }
